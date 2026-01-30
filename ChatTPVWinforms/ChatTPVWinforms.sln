@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatTPVWinforms", "ChatTPVWinforms\ChatTPVWinforms.csproj", "{58BF0803-98A8-4EFD-B0CC-72E203BE81A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServidorChat", "ServidorChat\ServidorChat.csproj", "{74F54DFF-373C-4995-A3E6-E192B9096904}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58BF0803-98A8-4EFD-B0CC-72E203BE81A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58BF0803-98A8-4EFD-B0CC-72E203BE81A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58BF0803-98A8-4EFD-B0CC-72E203BE81A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58BF0803-98A8-4EFD-B0CC-72E203BE81A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74F54DFF-373C-4995-A3E6-E192B9096904}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74F54DFF-373C-4995-A3E6-E192B9096904}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74F54DFF-373C-4995-A3E6-E192B9096904}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74F54DFF-373C-4995-A3E6-E192B9096904}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF3E1A74-6622-4599-9DC0-DCDB0A51A93B}
+	EndGlobalSection
+EndGlobal

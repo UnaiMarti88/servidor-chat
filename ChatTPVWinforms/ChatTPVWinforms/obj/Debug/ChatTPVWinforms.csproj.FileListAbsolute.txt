@@ -1,0 +1,10 @@
+C:\Users\Unai\source\repos\ChatTPVWinforms\ChatTPVWinforms\obj\Debug\ChatTPVWinforms.csproj.AssemblyReference.cache
+C:\Users\Unai\source\repos\ChatTPVWinforms\ChatTPVWinforms\obj\Debug\ChatTPVWinforms.Form1.resources
+C:\Users\Unai\source\repos\ChatTPVWinforms\ChatTPVWinforms\obj\Debug\ChatTPVWinforms.Properties.Resources.resources
+C:\Users\Unai\source\repos\ChatTPVWinforms\ChatTPVWinforms\obj\Debug\ChatTPVWinforms.csproj.GenerateResource.cache
+C:\Users\Unai\source\repos\ChatTPVWinforms\ChatTPVWinforms\obj\Debug\ChatTPVWinforms.csproj.CoreCompileInputs.cache
+C:\Users\Unai\source\repos\ChatTPVWinforms\ChatTPVWinforms\bin\Debug\ChatTPVWinforms.exe.config
+C:\Users\Unai\source\repos\ChatTPVWinforms\ChatTPVWinforms\bin\Debug\ChatTPVWinforms.exe
+C:\Users\Unai\source\repos\ChatTPVWinforms\ChatTPVWinforms\bin\Debug\ChatTPVWinforms.pdb
+C:\Users\Unai\source\repos\ChatTPVWinforms\ChatTPVWinforms\obj\Debug\ChatTPVWinforms.exe
+C:\Users\Unai\source\repos\ChatTPVWinforms\ChatTPVWinforms\obj\Debug\ChatTPVWinforms.pdb

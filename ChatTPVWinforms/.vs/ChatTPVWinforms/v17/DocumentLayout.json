@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Unai\\source\\repos\\ChatTPVWinforms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74F54DFF-373C-4995-A3E6-E192B9096904}|ServidorChat\\ServidorChat.csproj|c:\\users\\unai\\source\\repos\\chattpvwinforms\\servidorchat\\zerbitzaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74F54DFF-373C-4995-A3E6-E192B9096904}|ServidorChat\\ServidorChat.csproj|solutionrelative:servidorchat\\zerbitzaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74F54DFF-373C-4995-A3E6-E192B9096904}|ServidorChat\\ServidorChat.csproj|c:\\users\\unai\\source\\repos\\chattpvwinforms\\servidorchat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74F54DFF-373C-4995-A3E6-E192B9096904}|ServidorChat\\ServidorChat.csproj|solutionrelative:servidorchat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74F54DFF-373C-4995-A3E6-E192B9096904}|ServidorChat\\ServidorChat.csproj|c:\\users\\unai\\source\\repos\\chattpvwinforms\\servidorchat\\servidorchat.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{74F54DFF-373C-4995-A3E6-E192B9096904}|ServidorChat\\ServidorChat.csproj|solutionrelative:servidorchat\\servidorchat.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58BF0803-98A8-4EFD-B0CC-72E203BE81A5}|ChatTPVWinforms\\ChatTPVWinforms.csproj|C:\\Users\\Unai\\source\\repos\\ChatTPVWinforms\\chattpvwinforms\\clientechat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58BF0803-98A8-4EFD-B0CC-72E203BE81A5}|ChatTPVWinforms\\ChatTPVWinforms.csproj|solutionrelative:chattpvwinforms\\clientechat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58BF0803-98A8-4EFD-B0CC-72E203BE81A5}|ChatTPVWinforms\\ChatTPVWinforms.csproj|C:\\Users\\Unai\\source\\repos\\ChatTPVWinforms\\chattpvwinforms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58BF0803-98A8-4EFD-B0CC-72E203BE81A5}|ChatTPVWinforms\\ChatTPVWinforms.csproj|solutionrelative:chattpvwinforms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58BF0803-98A8-4EFD-B0CC-72E203BE81A5}|ChatTPVWinforms\\ChatTPVWinforms.csproj|C:\\Users\\Unai\\source\\repos\\ChatTPVWinforms\\chattpvwinforms\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58BF0803-98A8-4EFD-B0CC-72E203BE81A5}|ChatTPVWinforms\\ChatTPVWinforms.csproj|solutionrelative:chattpvwinforms\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58BF0803-98A8-4EFD-B0CC-72E203BE81A5}|ChatTPVWinforms\\ChatTPVWinforms.csproj|C:\\Users\\Unai\\source\\repos\\ChatTPVWinforms\\chattpvwinforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{58BF0803-98A8-4EFD-B0CC-72E203BE81A5}|ChatTPVWinforms\\ChatTPVWinforms.csproj|solutionrelative:chattpvwinforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58BF0803-98A8-4EFD-B0CC-72E203BE81A5}|ChatTPVWinforms\\ChatTPVWinforms.csproj|C:\\Users\\Unai\\source\\repos\\ChatTPVWinforms\\chattpvwinforms\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{58BF0803-98A8-4EFD-B0CC-72E203BE81A5}|ChatTPVWinforms\\ChatTPVWinforms.csproj|solutionrelative:chattpvwinforms\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74F54DFF-373C-4995-A3E6-E192B9096904}|ServidorChat\\ServidorChat.csproj|c:\\users\\unai\\source\\repos\\chattpvwinforms\\servidorchat\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{74F54DFF-373C-4995-A3E6-E192B9096904}|ServidorChat\\ServidorChat.csproj|solutionrelative:servidorchat\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74F54DFF-373C-4995-A3E6-E192B9096904}|ServidorChat\\ServidorChat.csproj|c:\\users\\unai\\source\\repos\\chattpvwinforms\\servidorchat\\servidorchat.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{74F54DFF-373C-4995-A3E6-E192B9096904}|ServidorChat\\ServidorChat.csproj|solutionrelative:servidorchat\\servidorchat.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58BF0803-98A8-4EFD-B0CC-72E203BE81A5}|ChatTPVWinforms\\ChatTPVWinforms.csproj|C:\\Users\\Unai\\source\\repos\\ChatTPVWinforms\\chattpvwinforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58BF0803-98A8-4EFD-B0CC-72E203BE81A5}|ChatTPVWinforms\\ChatTPVWinforms.csproj|solutionrelative:chattpvwinforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Zerbitzaria.cs",
+              "DocumentMoniker": "C:\\Users\\Unai\\source\\repos\\ChatTPVWinforms\\ServidorChat\\Zerbitzaria.cs",
+              "RelativeDocumentMoniker": "ServidorChat\\Zerbitzaria.cs",
+              "ToolTip": "C:\\Users\\Unai\\source\\repos\\ChatTPVWinforms\\ServidorChat\\Zerbitzaria.cs*",
+              "RelativeToolTip": "ServidorChat\\Zerbitzaria.cs*",
+              "ViewState": "AgIAADcAAAAAAAAAAAAAwFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T14:32:06.393Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Unai\\source\\repos\\ChatTPVWinforms\\ChatTPVWinforms\\Program.cs",
+              "RelativeDocumentMoniker": "ChatTPVWinforms\\Program.cs",
+              "ToolTip": "C:\\Users\\Unai\\source\\repos\\ChatTPVWinforms\\ChatTPVWinforms\\Program.cs*",
+              "RelativeToolTip": "ChatTPVWinforms\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T14:31:08.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Unai\\source\\repos\\ChatTPVWinforms\\ServidorChat\\Program.cs",
+              "RelativeDocumentMoniker": "ServidorChat\\Program.cs",
+              "ToolTip": "C:\\Users\\Unai\\source\\repos\\ChatTPVWinforms\\ServidorChat\\Program.cs",
+              "RelativeToolTip": "ServidorChat\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T14:31:21.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServidorChat.csproj",
+              "DocumentMoniker": "C:\\Users\\Unai\\source\\repos\\ChatTPVWinforms\\ServidorChat\\ServidorChat.csproj",
+              "RelativeDocumentMoniker": "ServidorChat\\ServidorChat.csproj",
+              "ToolTip": "C:\\Users\\Unai\\source\\repos\\ChatTPVWinforms\\ServidorChat\\ServidorChat.csproj",
+              "RelativeToolTip": "ServidorChat\\ServidorChat.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-22T13:09:09.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClienteChat.cs",
+              "DocumentMoniker": "C:\\Users\\Unai\\source\\repos\\ChatTPVWinforms\\ChatTPVWinforms\\ClienteChat.cs",
+              "RelativeDocumentMoniker": "ChatTPVWinforms\\ClienteChat.cs",
+              "ToolTip": "C:\\Users\\Unai\\source\\repos\\ChatTPVWinforms\\ChatTPVWinforms\\ClienteChat.cs",
+              "RelativeToolTip": "ChatTPVWinforms\\ClienteChat.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T14:32:15.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Unai\\source\\repos\\ChatTPVWinforms\\ChatTPVWinforms\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "ChatTPVWinforms\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Unai\\source\\repos\\ChatTPVWinforms\\ChatTPVWinforms\\Form1.Designer.cs",
+              "RelativeToolTip": "ChatTPVWinforms\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T15:03:25.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Unai\\source\\repos\\ChatTPVWinforms\\ServidorChat\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ServidorChat\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Unai\\source\\repos\\ChatTPVWinforms\\ServidorChat\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ServidorChat\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-22T13:09:03.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ServidorChat",
+              "DocumentMoniker": "C:\\Users\\Unai\\source\\repos\\ChatTPVWinforms\\ServidorChat\\ServidorChat.csproj",
+              "RelativeDocumentMoniker": "ServidorChat\\ServidorChat.csproj",
+              "ToolTip": "C:\\Users\\Unai\\source\\repos\\ChatTPVWinforms\\ServidorChat\\ServidorChat.csproj",
+              "RelativeToolTip": "ServidorChat\\ServidorChat.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-22T13:08:59.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Unai\\source\\repos\\ChatTPVWinforms\\ChatTPVWinforms\\Form1.cs",
+              "RelativeDocumentMoniker": "ChatTPVWinforms\\Form1.cs",
+              "ToolTip": "C:\\Users\\Unai\\source\\repos\\ChatTPVWinforms\\ChatTPVWinforms\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ChatTPVWinforms\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T14:31:14.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Unai\\source\\repos\\ChatTPVWinforms\\ChatTPVWinforms\\App.config",
+              "RelativeDocumentMoniker": "ChatTPVWinforms\\App.config",
+              "ToolTip": "C:\\Users\\Unai\\source\\repos\\ChatTPVWinforms\\ChatTPVWinforms\\App.config",
+              "RelativeToolTip": "ChatTPVWinforms\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-01-22T13:09:31.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Unai\\source\\repos\\ChatTPVWinforms\\ChatTPVWinforms\\Form1.cs",
+              "RelativeDocumentMoniker": "ChatTPVWinforms\\Form1.cs",
+              "ToolTip": "C:\\Users\\Unai\\source\\repos\\ChatTPVWinforms\\ChatTPVWinforms\\Form1.cs",
+              "RelativeToolTip": "ChatTPVWinforms\\Form1.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAtwEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T14:31:16.207Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
